@@ -2,7 +2,7 @@
 Grind the data, and it will confess to anything
 # 👋 Hi, I'm Svitlana  
 
-📊 Data Analyst with experience in Finance and eCommerce  
+📊 Junior Data Analyst / Data Analyst with experience in Finance and eCommerce  
 🐍 Skilled in Python(Pandas, NumPy), SQL, BigQuery, GA4, Excel, Google Sheets and Power BI for data manipulation and visualization   
 📈 Exploring marketing and sales funnels to deliver data-driven insights  
 
